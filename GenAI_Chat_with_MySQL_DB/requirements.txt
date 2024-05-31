@@ -1,0 +1,4 @@
+mysql-connector-python~=8.4.0
+python-dotenv~=1.0.1
+langchain~=0.2.1
+streamlit~=1.35.0
