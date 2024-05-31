@@ -2,12 +2,12 @@
 Chat with MySQL Database using Google AI
 
 
-**Project Objectives: **
+**Project Objectives:**
 Build LLM project Using Langchain, Gemini model based on Data stored in MySQL Database. 
 We will use SQL Database chain in Langchain along with a few shot learning to fine tune the model for accurate prediction and build a question-and-answer system that can talk to MySQL database and generate answers.
 
 
-**Deliverables: **
+**Deliverables:**
 User Interface developed via Streamlit with Input Box to type in the user Questions and Answers will be displayed upon hitting ‘Enter’ along with chat history. 
 
 **Design:**
