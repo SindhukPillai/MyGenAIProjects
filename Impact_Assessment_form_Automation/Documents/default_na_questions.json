@@ -1,0 +1,706 @@
+[
+  {
+    "Release_Number": "GLOBAL",
+    "Question_No": 2.4,
+    "Impact_Analysis_Question": "Does this design change Impact product compatibility requirements (addition or removal of compatible devices or accessories)?",
+    "Response": "NA",
+    "Justification_or_Implementation_Details": "Not applicable for SaaS based Cloud environement product.",
+    "Target_Completion_Workflow_Phase": "NA"
+  },
+  {
+    "Release_Number": "GLOBAL",
+    "Question_No": 2.5,
+    "Impact_Analysis_Question": "Does this design change impact Product Standards design input requirements that apply to features, technology for the identified target markets and countries (e.g., IEC60601-1, ISO 10933, WEEE, RoHS, Batteries, Telecommunication, Wi-Fi, Bluetooth)?",
+    "Response": "NA",
+    "Justification_or_Implementation_Details": "Not applicable for SaaS based Cloud environement product.",
+    "Target_Completion_Workflow_Phase": "NA"
+  },
+  {
+    "Release_Number": "GLOBAL",
+    "Question_No": 2.7,
+    "Impact_Analysis_Question": "Does this design change impact released Installation or Service requirements (e.g., Installation, Maintenance and Repair, Tools, Diagnostic requirements, siting requirements)? If YES QS_1001_T001 Product Service Standards Assessment Summary and Justification Template (DOC2449236) should be reviewed/updated with the new requirements NOTE: Confirm if there are changes to the customer site requirements/customer room preparation, change to the PIM (Pre-Installation Manual) as it may in turn drive changes to GE Design Center content and ultimately customers who currently are reviewing drawings, budgeting for siting requirements and/or currently building their room. NOTE: Refer to QS_1001 Global QS Standard WI for Product Service Standards (DOC0487759) for further guidance",
+    "Response": "NA",
+    "Justification_or_Implementation_Details": "Not applicable for SaaS based Cloud environement product.",
+    "Target_Completion_Workflow_Phase": "NA"
+  },
+  {
+    "Release_Number": "GLOBAL",
+    "Question_No": 2.8,
+    "Impact_Analysis_Question": "Does this design change impact Packaging requirements? (e.g., size, weight, storage, shelf life, packaging material, special handling)?",
+    "Response": "NA",
+    "Justification_or_Implementation_Details": "Not applicable for SaaS based Cloud environement product.",
+    "Target_Completion_Workflow_Phase": "NA"
+  },
+  {
+    "Release_Number": "GLOBAL",
+    "Question_No": 2.12,
+    "Impact_Analysis_Question": "Does this design change impact electronic interface interoperability requirements (e.g., DICOM, IHE, HL7 conformance)? NOTE: Refer to QS_5001 Global Standard WI for Conformity with Recognized Medical Interoperability Standards (DOC2432296) for further guidance",
+    "Response": "NA",
+    "Justification_or_Implementation_Details": "Not applicable for SaaS based Cloud environement product.",
+    "Target_Completion_Workflow_Phase": "NA"
+  },
+  {
+    "Release_Number": "GLOBAL",
+    "Question_No": 3.0,
+    "Impact_Analysis_Question": "Do any of the IMPACT ANALYSIS considerations/questions below apply to RISK MANAGEMENT design controls element? If NO, document the rationale for no impact.",
+    "Response": "NA",
+    "Justification_or_Implementation_Details": "Not applicable for SaaS based Cloud environement product.",
+    "Target_Completion_Workflow_Phase": "NA"
+  },
+  {
+    "Release_Number": "GLOBAL",
+    "Question_No": 3.1,
+    "Impact_Analysis_Question": "Does this design change impact existing risk mitigations, or identify the need for additional risk mitigation requiring verification and/or validation activities?",
+    "Response": "NA",
+    "Justification_or_Implementation_Details": "Not applicable for SaaS based Cloud environement product.",
+    "Target_Completion_Workflow_Phase": "NA"
+  },
+  {
+    "Release_Number": "GLOBAL",
+    "Question_No": 3.2,
+    "Impact_Analysis_Question": "Does this design change introduce new hazards or new causes, and impacts change to the residual risk(s) or their acceptability?",
+    "Response": "NA",
+    "Justification_or_Implementation_Details": "Not applicable for SaaS based Cloud environement product.",
+    "Target_Completion_Workflow_Phase": "NA"
+  },
+  {
+    "Release_Number": "GLOBAL",
+    "Question_No": 3.3,
+    "Impact_Analysis_Question": "Does this design change implementation require updates to Risk Assessment and Control Document (RAC), Product Cause and Mitigation Table (CMT)?",
+    "Response": "NA",
+    "Justification_or_Implementation_Details": "Not applicable for SaaS based Cloud environement product.",
+    "Target_Completion_Workflow_Phase": "NA"
+  },
+  {
+    "Release_Number": "GLOBAL",
+    "Question_No": 3.4,
+    "Impact_Analysis_Question": "Does this design change add or change Design Input or other requirements traced to Essential Characteristic or finished Design Output? If Yes, assess impact to product RMF deliverables",
+    "Response": "NA",
+    "Justification_or_Implementation_Details": "Not applicable for SaaS based Cloud environement product.",
+    "Target_Completion_Workflow_Phase": "NA"
+  },
+  {
+    "Release_Number": "GLOBAL",
+    "Question_No": 3.5,
+    "Impact_Analysis_Question": "Does this design change impact software classified as Class B or C? If Yes, access impact to product RMF deliverables",
+    "Response": "NA",
+    "Justification_or_Implementation_Details": "Not applicable for SaaS based Cloud environement product.",
+    "Target_Completion_Workflow_Phase": "NA"
+  },
+  {
+    "Release_Number": "GLOBAL",
+    "Question_No": 3.6,
+    "Impact_Analysis_Question": "Does this design change introduce new product feature or functionality? If Yes access impact to product RMF deliverables",
+    "Response": "NA",
+    "Justification_or_Implementation_Details": "Not applicable for SaaS based Cloud environement product.",
+    "Target_Completion_Workflow_Phase": "NA"
+  },
+  {
+    "Release_Number": "GLOBAL",
+    "Question_No": 3.7,
+    "Impact_Analysis_Question": "Does this design change introduce change to material that is either non-equivalent to the existing material and/or has patient contact (i.e., Biocompatibility)? If Yes, access impact to product RMF deliverables",
+    "Response": "NA",
+    "Justification_or_Implementation_Details": "Not applicable for SaaS based Cloud environement product.",
+    "Target_Completion_Workflow_Phase": "NA"
+  },
+  {
+    "Release_Number": "GLOBAL",
+    "Question_No": 3.8,
+    "Impact_Analysis_Question": "Does this design change add or introduce change to Essential Part (including labeling) and essential controls? If Yes, access impact to product RMF deliverables",
+    "Response": "NA",
+    "Justification_or_Implementation_Details": "Not applicable for SaaS based Cloud environement product.",
+    "Target_Completion_Workflow_Phase": "NA"
+  },
+  {
+    "Release_Number": "GLOBAL",
+    "Question_No": 3.9,
+    "Impact_Analysis_Question": "Does this design change impact product Expected Service Life evaluated and documented in Product Risk Management File/Standard Conformance (Ref: IEC 60601-1 Clause 4.4)?",
+    "Response": "NA",
+    "Justification_or_Implementation_Details": "Not applicable for SaaS based Cloud environement product.",
+    "Target_Completion_Workflow_Phase": "NA"
+  },
+  {
+    "Release_Number": "GLOBAL",
+    "Question_No": 4.0,
+    "Impact_Analysis_Question": "Do any of the IMPACT ANALYSIS considerations/questions below apply to FMEA process? If NO, document the rationale for no impact. Refer to GEHC_GQP_08.01 Risk Management Procedure (DOC0283944) for FMEA Templates & minimum requirements Refer to Failure Modes and Effects Process Standard (DOC2433962) for further guidance",
+    "Response": "NA",
+    "Justification_or_Implementation_Details": "Not applicable for SaaS based Cloud environement product.",
+    "Target_Completion_Workflow_Phase": "NA"
+  },
+  {
+    "Release_Number": "GLOBAL",
+    "Question_No": 4.4,
+    "Impact_Analysis_Question": "Does this design change impact released Process FMEA for service, installation/de-installation/upgrade or requires development of new PFMEA records for service/installation/maintenance?",
+    "Response": "NA",
+    "Justification_or_Implementation_Details": "Not applicable for SaaS based Cloud environement product.",
+    "Target_Completion_Workflow_Phase": "NA"
+  },
+  {
+    "Release_Number": "GLOBAL",
+    "Question_No": 4.5,
+    "Impact_Analysis_Question": "Does this design change affect distribution processes requiring special handling (i.e., not able to be transported via general cargo) OR Impacts distribution PFMEA? NOTE: Distribution includes packaging, transportation, and storage.",
+    "Response": "NA",
+    "Justification_or_Implementation_Details": "Not applicable for SaaS based Cloud environement product.",
+    "Target_Completion_Workflow_Phase": "NA"
+  },
+  {
+    "Release_Number": "GLOBAL",
+    "Question_No": 5.0,
+    "Impact_Analysis_Question": "Do any of the IMPACT ANALYSIS considerations/questions below apply to product REGULATORY design controls element? If NO, document the rationale for no impact.",
+    "Response": "NA",
+    "Justification_or_Implementation_Details": "Not applicable for SaaS based Cloud environement product.",
+    "Target_Completion_Workflow_Phase": "NA"
+  },
+  {
+    "Release_Number": "GLOBAL",
+    "Question_No": 5.1,
+    "Impact_Analysis_Question": "Does this design change represent Substantial/Significant Change to quality processes or product required per GEHC_GQP_03.01_Quality Plan Procedure (DOC0289782) and warrants communication to Notified Body (NB).",
+    "Response": "NA",
+    "Justification_or_Implementation_Details": "Not applicable for SaaS based Cloud environement product.",
+    "Target_Completion_Workflow_Phase": "NA"
+  },
+  {
+    "Release_Number": "GLOBAL",
+    "Question_No": 5.2,
+    "Impact_Analysis_Question": "Does this design change impact Regulatory certifications/registrations/licenses of the end use products? e.g., AERB, CE mark, Health Canada license, China NMPA certs/PTR, country specific license/registrations, Notified body certification (TÜV, BSI, GMED, CSA, UL, etc.)?",
+    "Response": "NA",
+    "Justification_or_Implementation_Details": "Not applicable for SaaS based Cloud environement product.",
+    "Target_Completion_Workflow_Phase": "NA"
+  },
+  {
+    "Release_Number": "GLOBAL",
+    "Question_No": 5.3,
+    "Impact_Analysis_Question": "Does this design change impact Labeling (e.g., updates to system labels, rating plates, regulatory/safety labels, instructions for use, indications for use, addition/deletion of contraindications, GTIN)? NOTE: Change in rating plate may have UDI implications (if it is a new medical device, ensure the medical device is structured at or below the rating plate level in the BOM).",
+    "Response": "NA",
+    "Justification_or_Implementation_Details": "Not applicable for SaaS based Cloud environement product.",
+    "Target_Completion_Workflow_Phase": "NA"
+  },
+  {
+    "Release_Number": "GLOBAL",
+    "Question_No": 5.4,
+    "Impact_Analysis_Question": "Does this design change impact the control mechanism, operating principle, energy type, main electrical ratings, or certification and testing standards?",
+    "Response": "NA",
+    "Justification_or_Implementation_Details": "Not applicable for SaaS based Cloud environement product.",
+    "Target_Completion_Workflow_Phase": "NA"
+  },
+  {
+    "Release_Number": "GLOBAL",
+    "Question_No": 5.5,
+    "Impact_Analysis_Question": "Does this design change impact sterile components, sterile packaging, sterilization methods or changes in biological material of the device?",
+    "Response": "NA",
+    "Justification_or_Implementation_Details": "Not applicable for SaaS based Cloud environement product.",
+    "Target_Completion_Workflow_Phase": "NA"
+  },
+  {
+    "Release_Number": "GLOBAL",
+    "Question_No": 5.7,
+    "Impact_Analysis_Question": "Does this design change impact regional regulatory requirements and safety standards?",
+    "Response": "NA",
+    "Justification_or_Implementation_Details": "Not applicable for SaaS based Cloud environement product.",
+    "Target_Completion_Workflow_Phase": "NA"
+  },
+  {
+    "Release_Number": "GLOBAL",
+    "Question_No": 5.8,
+    "Impact_Analysis_Question": "Does this design change affect MDD/MDR technical file, Declaration of Conformity, 510(k) claims, PMA device, Letter to File, essential principles, annual reports, product report, GSPR, or EU DoC?",
+    "Response": "NA",
+    "Justification_or_Implementation_Details": "Not applicable for SaaS based Cloud environement product.",
+    "Target_Completion_Workflow_Phase": "NA"
+  },
+  {
+    "Release_Number": "GLOBAL",
+    "Question_No": 5.9,
+    "Impact_Analysis_Question": "Does this change require the completion of the MDR Significant Change Assessment Form (DOC2193466)? Select appropriate. 1.No.Not Applicable – Product is a Class I product and EU MDR Compliant 2.No: Not Applicable –Product is a Class II product and EU MDR compliant 3.No: Not Applicable – Change does not impact the CE Marked elements of a device (changes to regional device labels outside of the EU – not applicable if changing the device label that bears the CE Mark) 4.No: Not Applicable – Non-significant change based on scope  (Changes that do not impact the product such as addition of secondary source supplier, documentation error fixes, component obsolescence change that is not impact form fit and function) 5.Yes: Attributes as per Chart M of DOC2193466 are impacted. Need evidence of Change assessment form completion either attached to ECO or separate document.",
+    "Response": "NA",
+    "Justification_or_Implementation_Details": "Not applicable for SaaS based Cloud environement product.",
+    "Target_Completion_Workflow_Phase": "NA"
+  },
+  {
+    "Release_Number": "GLOBAL",
+    "Question_No": 5.1,
+    "Impact_Analysis_Question": "Does this design change impact established regulatory compliance plan (RCP) or post commercial release RA strategy?",
+    "Response": "NA",
+    "Justification_or_Implementation_Details": "Not applicable for SaaS based Cloud environement product.",
+    "Target_Completion_Workflow_Phase": "NA"
+  },
+  {
+    "Release_Number": "GLOBAL",
+    "Question_No": 5.12,
+    "Impact_Analysis_Question": "Does this design change introduce new accessory that was not previously registered with the device? NOTE: Adding a new medical device accessory according to MDR might trigger RA action.",
+    "Response": "NA",
+    "Justification_or_Implementation_Details": "Not applicable for SaaS based Cloud environement product.",
+    "Target_Completion_Workflow_Phase": "NA"
+  },
+  {
+    "Release_Number": "GLOBAL",
+    "Question_No": 5.13,
+    "Impact_Analysis_Question": "Assessment required per DOC0860577 Global RA Change Assessment Guide?",
+    "Response": "NA",
+    "Justification_or_Implementation_Details": "Not applicable for SaaS based Cloud environement product.",
+    "Target_Completion_Workflow_Phase": "NA"
+  },
+  {
+    "Release_Number": "GLOBAL",
+    "Question_No": 5.14,
+    "Impact_Analysis_Question": "Does this design change introduce change to ergonomics, software/firmware, environmental, performance or dimensional specifications? If yes, does this change require the need for clinical data to establish safety and effectiveness or result in design validation that raises new issues of safety and effectiveness?",
+    "Response": "NA",
+    "Justification_or_Implementation_Details": "Not applicable for SaaS based Cloud environement product.",
+    "Target_Completion_Workflow_Phase": "NA"
+  },
+  {
+    "Release_Number": "GLOBAL",
+    "Question_No": 5.15,
+    "Impact_Analysis_Question": "Does this design change include FMI/safety fixes (reportable in any country)? If yes, identify action to perform post market assessment.",
+    "Response": "NA",
+    "Justification_or_Implementation_Details": "Not applicable for SaaS based Cloud environement product.",
+    "Target_Completion_Workflow_Phase": "NA"
+  },
+  {
+    "Release_Number": "GLOBAL",
+    "Question_No": 6.1,
+    "Impact_Analysis_Question": "Does this design change Modify or releases a new commercial offering identified in PCM (Product Configuration Master), ACM (Accessories Configuration Master), ATO (Assemble To Order), PTO (Pick To Order) etc.?",
+    "Response": "NA",
+    "Justification_or_Implementation_Details": "Not applicable for SaaS based Cloud environement product.",
+    "Target_Completion_Workflow_Phase": "NA"
+  },
+  {
+    "Release_Number": "GLOBAL",
+    "Question_No": 6.2,
+    "Impact_Analysis_Question": "Does this design change Impact part(s) that are classified as a GEHC Medical Device? AND the proposed change:   Modifies Brand name, Model name   OR... modifies UDI published attributes (Product Model number, Manufacturer…)   OR... modifies quantity of mandatory component   OR... replaces/removes mandatory component   OR... changes/removes language from system’s user interface/outputs, labeling, documentation or packaging   OR... changes Part Number of Medical Device   OR... changes/new medical device identification (certification, registration, regulatory labeling)",
+    "Response": "NA",
+    "Justification_or_Implementation_Details": "Not applicable for SaaS based Cloud environement product.",
+    "Target_Completion_Workflow_Phase": "NA"
+  },
+  {
+    "Release_Number": "GLOBAL",
+    "Question_No": 6.3,
+    "Impact_Analysis_Question": "Does this design change Impact any of the Product Controllership attributes including UDI? (including a change to BOM/Collector BOM/Parent Catalog that impacts medical device offerings, or upgrades/replacement parts)",
+    "Response": "NA",
+    "Justification_or_Implementation_Details": "Not applicable for SaaS based Cloud environement product.",
+    "Target_Completion_Workflow_Phase": "NA"
+  },
+  {
+    "Release_Number": "GLOBAL",
+    "Question_No": 6.4,
+    "Impact_Analysis_Question": "Does this change impact I&T (identification and traceability) items? If yes, list impacted I&T part and related I&T Part list document that needs to be revised if applicable, and confirm if this item need to be tracked in global tracking system. (Refer to GEHC_GQP_12.04 Identification and Traceability Procedure (DOC0373356) for further guidance)",
+    "Response": "NA",
+    "Justification_or_Implementation_Details": "Not applicable for SaaS based Cloud environement product.",
+    "Target_Completion_Workflow_Phase": "NA"
+  },
+  {
+    "Release_Number": "GLOBAL",
+    "Question_No": 6.5,
+    "Impact_Analysis_Question": "Does this design change impact Global Data Synchronization Network (GDSN)/GTIN,Commercial Identifiers, Promotional Materials/Brochures, Impact on User Needs and Intended Uses, Product appearance and Product cost? If Yes, confirm with Marketing for any actions to be completed prior to implementation",
+    "Response": "NA",
+    "Justification_or_Implementation_Details": "Not applicable for SaaS based Cloud environement product.",
+    "Target_Completion_Workflow_Phase": "NA"
+  },
+  {
+    "Release_Number": "GLOBAL",
+    "Question_No": 6.8,
+    "Impact_Analysis_Question": "Does this design change impact released Design Specifications (Finished design outputs from design phase) e.g., ADW/DDW/PSP/TST, requiring update?",
+    "Response": "NA",
+    "Justification_or_Implementation_Details": "Not applicable for SaaS based Cloud environement product.",
+    "Target_Completion_Workflow_Phase": "NA"
+  },
+  {
+    "Release_Number": "GLOBAL",
+    "Question_No": 6.9,
+    "Impact_Analysis_Question": "Does this design change impact Bill of Materials for an assembly?  If so, the assembly needs to be assessed for opportunities to use standard parts, using the Managed Library Report. See DOC2289045 GEHC Component Selection Guidance",
+    "Response": "NA",
+    "Justification_or_Implementation_Details": "Not applicable for SaaS based Cloud environement product.",
+    "Target_Completion_Workflow_Phase": "NA"
+  },
+  {
+    "Release_Number": "GLOBAL",
+    "Question_No": 6.12,
+    "Impact_Analysis_Question": "Is on-product labeling printed in-process using a Software program (e.g., BarTender)? If so, does this change impact the following: - Dynamic fields - Static fields - Part verification or manufacturing process validation (e.g., printed label)",
+    "Response": "NA",
+    "Justification_or_Implementation_Details": "Not applicable for SaaS based Cloud environement product.",
+    "Target_Completion_Workflow_Phase": "NA"
+  },
+  {
+    "Release_Number": "GLOBAL",
+    "Question_No": 6.14,
+    "Impact_Analysis_Question": "Does this design change impact existing Field Replaceable Units (FRU) and/or Depot Replaceable Units (DRU) setup?  Does this change require updates in iSpare for example? Is Technical nature attribute set up under classification power view with respect to part nature for Spare Parts?",
+    "Response": "NA",
+    "Justification_or_Implementation_Details": "Not applicable for SaaS based Cloud environement product.",
+    "Target_Completion_Workflow_Phase": "NA"
+  },
+  {
+    "Release_Number": "GLOBAL",
+    "Question_No": 6.15,
+    "Impact_Analysis_Question": "Does this design change Modify or releases new accessory(s)? [Pre-qualified accessories, accessories that can be connected to or interact with the medical device/product may require engineering review to determine need for technical justification or full verification testing or full validation testing, i.e., reference the testing or justification and DHF documentation updates for biocompatibility, safety, EMC, design verification for compatibility, etc.]",
+    "Response": "NA",
+    "Justification_or_Implementation_Details": "Not applicable for SaaS based Cloud environement product.",
+    "Target_Completion_Workflow_Phase": "NA"
+  },
+  {
+    "Release_Number": "GLOBAL",
+    "Question_No": 6.16,
+    "Impact_Analysis_Question": "Is there any change that alters established method of compliance to the basic safety and essential performance requirements in the standard? Part(s) in scope of this change is a critical component?   Does this Design Change impact NRTL Listing Report/safety standard test reports, CB Certification and Critical Component List?  Example: Impact NMPA registration, PTR (Product Technical Requirement) and PTR mapping to design control and production control",
+    "Response": "NA",
+    "Justification_or_Implementation_Details": "Not applicable for SaaS based Cloud environement product.",
+    "Target_Completion_Workflow_Phase": "NA"
+  },
+  {
+    "Release_Number": "GLOBAL",
+    "Question_No": 6.17,
+    "Impact_Analysis_Question": "Does this design change impact a harvested part? Is there an impact to established Harvesting WI, SOP, or process document for the product?",
+    "Response": "NA",
+    "Justification_or_Implementation_Details": "Not applicable for SaaS based Cloud environement product.",
+    "Target_Completion_Workflow_Phase": "NA"
+  },
+  {
+    "Release_Number": "GLOBAL",
+    "Question_No": 6.18,
+    "Impact_Analysis_Question": "Does this design change impact EMI/EMC certifications reports, Suspended Masses, Actual Or Possible Harm To Patient, User, or Service Personnel, etc.?",
+    "Response": "NA",
+    "Justification_or_Implementation_Details": "Not applicable for SaaS based Cloud environement product.",
+    "Target_Completion_Workflow_Phase": "NA"
+  },
+  {
+    "Release_Number": "GLOBAL",
+    "Question_No": 6.19,
+    "Impact_Analysis_Question": "Does this design change impact compliance of WEEE passport(s), RoHS or REACH, Phthalate, DEHP (France), Proposition 65 status, EU_EEA Restriction in use of PFOA, its salts and PFOA-related compounds?",
+    "Response": "NA",
+    "Justification_or_Implementation_Details": "Not applicable for SaaS based Cloud environement product.",
+    "Target_Completion_Workflow_Phase": "NA"
+  },
+  {
+    "Release_Number": "GLOBAL",
+    "Question_No": 6.2,
+    "Impact_Analysis_Question": "Does this design change impact Battery or Battery report? (added/changed/removed/restructured)",
+    "Response": "NA",
+    "Justification_or_Implementation_Details": "Not applicable for SaaS based Cloud environement product.",
+    "Target_Completion_Workflow_Phase": "NA"
+  },
+  {
+    "Release_Number": "GLOBAL",
+    "Question_No": 6.21,
+    "Impact_Analysis_Question": "Does this design change impact Chemical, Physical, Biological characteristics/properties?",
+    "Response": "NA",
+    "Justification_or_Implementation_Details": "Not applicable for SaaS based Cloud environement product.",
+    "Target_Completion_Workflow_Phase": "NA"
+  },
+  {
+    "Release_Number": "GLOBAL",
+    "Question_No": 6.22,
+    "Impact_Analysis_Question": "Does this Design Change impact product appearance? If yes, describe change to product appearance and confirm if review/approval from Industrial design team/representative is required.",
+    "Response": "NA",
+    "Justification_or_Implementation_Details": "Not applicable for SaaS based Cloud environement product.",
+    "Target_Completion_Workflow_Phase": "NA"
+  },
+  {
+    "Release_Number": "GLOBAL",
+    "Question_No": 6.23,
+    "Impact_Analysis_Question": "Is the affected part(s) essential characteristics control plan impacted? OR...Are any of the Parts converted from Non-Essential to Essential classification? OR...Are any design output essential characteristics being changed as a result of the design change?  OR...Are NEW parts classified as Essential added to Bill Of Materials (BOM)?  NOTE: Document the rationale for changing legacy safety /function/Essential part to Non-Essential.",
+    "Response": "NA",
+    "Justification_or_Implementation_Details": "Not applicable for SaaS based Cloud environement product.",
+    "Target_Completion_Workflow_Phase": "NA"
+  },
+  {
+    "Release_Number": "GLOBAL",
+    "Question_No": 6.24,
+    "Impact_Analysis_Question": "Does this design change impact Telecommunication Registrations and Certifications? (WiFi, UWB, Bluetooth, ZigBee, etc.). Refer to GEHC Engineering Standard for Wireless Product Compliance Planning (DOC2360208) for further guidance.",
+    "Response": "NA",
+    "Justification_or_Implementation_Details": "Not applicable for SaaS based Cloud environement product.",
+    "Target_Completion_Workflow_Phase": "NA"
+  },
+  {
+    "Release_Number": "GLOBAL",
+    "Question_No": 6.25,
+    "Impact_Analysis_Question": "Trade Compliance: Does this design change include a change to the Country Of Origin (COO) for an existing buy part?",
+    "Response": "NA",
+    "Justification_or_Implementation_Details": "Not applicable for SaaS based Cloud environement product.",
+    "Target_Completion_Workflow_Phase": "NA"
+  },
+  {
+    "Release_Number": "GLOBAL",
+    "Question_No": 6.26,
+    "Impact_Analysis_Question": "Is this design change associated with updates to Alternate/Substitue parts? If yes consider all aspects of use (e.g., service, software impact) and identify actions to ensure traceability throughout the entire lifecycle of the product",
+    "Response": "NA",
+    "Justification_or_Implementation_Details": "Not applicable for SaaS based Cloud environement product.",
+    "Target_Completion_Workflow_Phase": "NA"
+  },
+  {
+    "Release_Number": "GLOBAL",
+    "Question_No": 6.27,
+    "Impact_Analysis_Question": "Does this design change impact Seismic certifications or have seismic design impact? If YES, indicate required tasks to complete.",
+    "Response": "NA",
+    "Justification_or_Implementation_Details": "Not applicable for SaaS based Cloud environement product.",
+    "Target_Completion_Workflow_Phase": "NA"
+  },
+  {
+    "Release_Number": "GLOBAL",
+    "Question_No": 7.2,
+    "Impact_Analysis_Question": "Does this design change require compatibility testing to confirm forward/backward compatibility of proposed design change with other systems, products, or interfaces?",
+    "Response": "NA",
+    "Justification_or_Implementation_Details": "Not applicable for SaaS based Cloud environement product.",
+    "Target_Completion_Workflow_Phase": "NA"
+  },
+  {
+    "Release_Number": "GLOBAL",
+    "Question_No": 7.5,
+    "Impact_Analysis_Question": "Does this Design Change make a change to an accessory that would require a Compatibility Assessment with a host/impacted device?",
+    "Response": "NA",
+    "Justification_or_Implementation_Details": "Not applicable for SaaS based Cloud environement product.",
+    "Target_Completion_Workflow_Phase": "NA"
+  },
+  {
+    "Release_Number": "GLOBAL",
+    "Question_No": 9.7,
+    "Impact_Analysis_Question": "Is this software change compatible with all older revision of hardware's in IB? Does this Design Change make a change to the Product Hardware that would require a System Compatibility Assessment?",
+    "Response": "NA",
+    "Justification_or_Implementation_Details": "Not applicable for SaaS based Cloud environement product.",
+    "Target_Completion_Workflow_Phase": "NA"
+  },
+  {
+    "Release_Number": "GLOBAL",
+    "Question_No": 9.8,
+    "Impact_Analysis_Question": "Is this software change compatible with all older revision of software in IB? Does this Design Change make a change to the Product Software/Firmware that would require a System Compatibility Assessment/regression test?",
+    "Response": "NA",
+    "Justification_or_Implementation_Details": "Not applicable for SaaS based Cloud environement product.",
+    "Target_Completion_Workflow_Phase": "NA"
+  },
+  {
+    "Release_Number": "GLOBAL",
+    "Question_No": 10.3,
+    "Impact_Analysis_Question": "Does this design change impact Use-based hazards/risk mitigations and/or introduces new use-based hazards/risk mitigations?",
+    "Response": "NA",
+    "Justification_or_Implementation_Details": "Not applicable for SaaS based Cloud environement product.",
+    "Target_Completion_Workflow_Phase": "NA"
+  },
+  {
+    "Release_Number": "GLOBAL",
+    "Question_No": 10.4,
+    "Impact_Analysis_Question": "Does this design change impact Critical Task or identifies new Critical Task?",
+    "Response": "NA",
+    "Justification_or_Implementation_Details": "Not applicable for SaaS based Cloud environement product.",
+    "Target_Completion_Workflow_Phase": "NA"
+  },
+  {
+    "Release_Number": "GLOBAL",
+    "Question_No": 11.0,
+    "Impact_Analysis_Question": "Do any of the IMPACT ANALYSIS considerations/questions below apply to DESIGN TRANSFER design controls element? If NO, document the rationale for no impact. NOTE: It is recommended to use GEHC_GQP_10.01.007_T002 Design Transfer Plan Template (DOC2317856) for iteration and growth program.",
+    "Response": "NA",
+    "Justification_or_Implementation_Details": "Not applicable for SaaS based Cloud environement product.",
+    "Target_Completion_Workflow_Phase": "NA"
+  },
+  {
+    "Release_Number": "GLOBAL",
+    "Question_No": 11.4,
+    "Impact_Analysis_Question": "Does this design change affect Environmental Health and Safety (EHS) or EHS evaluation?",
+    "Response": "NA",
+    "Justification_or_Implementation_Details": "Not applicable for SaaS based Cloud environement product.",
+    "Target_Completion_Workflow_Phase": "NA"
+  },
+  {
+    "Release_Number": "GLOBAL",
+    "Question_No": 11.5,
+    "Impact_Analysis_Question": "Does this design change require additional external Supplier Qualification or Notification (SCN) for affected parts?  NOTE: Check if the ECR introduces parts from an external supplier that is not on the site ASL. NOTE: GEHC Initiated changes may require SCN (Supplier Change Notification) per GEHC_GQP_11.01.009 Purchasing Change Management Work Instruction (DOC0288388) NOTE: Check if SCN needs to be issued to suppliers tasked with procuring the affected parts, if this change is associated with MEP maintenance.",
+    "Response": "NA",
+    "Justification_or_Implementation_Details": "Not applicable for SaaS based Cloud environement product.",
+    "Target_Completion_Workflow_Phase": "NA"
+  },
+  {
+    "Release_Number": "GLOBAL",
+    "Question_No": 11.6,
+    "Impact_Analysis_Question": "Does this design change impact a part that is EOL (End Of Life) requiring LTB (Last Time Buy) action to be initiated or assessed?",
+    "Response": "NA",
+    "Justification_or_Implementation_Details": "Not applicable for SaaS based Cloud environement product.",
+    "Target_Completion_Workflow_Phase": "NA"
+  },
+  {
+    "Release_Number": "GLOBAL",
+    "Question_No": 11.7,
+    "Impact_Analysis_Question": "Does this design change require Incoming Material Qualification for BUY Parts (Manufacturing and Drop Ship)?  Does Incoming acceptance document (e.g., ITD), Characteristic Card(s), PID need to be created/modified/removed? (required for part with purchasing or incoming manufacturing controls)?",
+    "Response": "NA",
+    "Justification_or_Implementation_Details": "Not applicable for SaaS based Cloud environement product.",
+    "Target_Completion_Workflow_Phase": "NA"
+  },
+  {
+    "Release_Number": "GLOBAL",
+    "Question_No": 11.1,
+    "Impact_Analysis_Question": "Does this design change introduce a new or update to manufacturing Tool/software?",
+    "Response": "NA",
+    "Justification_or_Implementation_Details": "Not applicable for SaaS based Cloud environement product.",
+    "Target_Completion_Workflow_Phase": "NA"
+  },
+  {
+    "Release_Number": "GLOBAL",
+    "Question_No": 11.11,
+    "Impact_Analysis_Question": "Does this design change impact released software delivery process? (e.g., physical media, duplication process, eDelivery process)  NOTE: Ensure the released software can be reliably delivered from its archive to the point of use without corruption or unauthorized change.",
+    "Response": "NA",
+    "Justification_or_Implementation_Details": "Not applicable for SaaS based Cloud environement product.",
+    "Target_Completion_Workflow_Phase": "NA"
+  },
+  {
+    "Release_Number": "GLOBAL",
+    "Question_No": 11.12,
+    "Impact_Analysis_Question": "Do any of the impacted parts require Purchasing controls for established Essential Characteristics?",
+    "Response": "NA",
+    "Justification_or_Implementation_Details": "Not applicable for SaaS based Cloud environement product.",
+    "Target_Completion_Workflow_Phase": "NA"
+  },
+  {
+    "Release_Number": "GLOBAL",
+    "Question_No": 11.14,
+    "Impact_Analysis_Question": "Does this design change require new jigs/tooling/mould at the supplier, or is any of the existing jigs/tooling/mould at the supplier affected by this change?",
+    "Response": "NA",
+    "Justification_or_Implementation_Details": "Not applicable for SaaS based Cloud environement product.",
+    "Target_Completion_Workflow_Phase": "NA"
+  },
+  {
+    "Release_Number": "GLOBAL",
+    "Question_No": 11.15,
+    "Impact_Analysis_Question": "Does this design change impact Supplier test equipment, tools, simulators, software, product bays, products (used for testing/equipment qualification, etc.) used for manufacturing testing requiring update? If Yes, SCR is Required from Supplier for test equipment",
+    "Response": "NA",
+    "Justification_or_Implementation_Details": "Not applicable for SaaS based Cloud environement product.",
+    "Target_Completion_Workflow_Phase": "NA"
+  },
+  {
+    "Release_Number": "GLOBAL",
+    "Question_No": 11.17,
+    "Impact_Analysis_Question": "Is the critical supplier not identified in current critical supplier list? If Yes, identify action for Engineering to update critical supplier list as needed.",
+    "Response": "NA",
+    "Justification_or_Implementation_Details": "Not applicable for SaaS based Cloud environement product.",
+    "Target_Completion_Workflow_Phase": "NA"
+  },
+  {
+    "Release_Number": "GLOBAL",
+    "Question_No": 11.18,
+    "Impact_Analysis_Question": "Is the critical supplier list not updated? If Yes, identify action for SQE to update ASL and notify suppliers of the critical supplier designation.",
+    "Response": "NA",
+    "Justification_or_Implementation_Details": "Not applicable for SaaS based Cloud environement product.",
+    "Target_Completion_Workflow_Phase": "NA"
+  },
+  {
+    "Release_Number": "GLOBAL",
+    "Question_No": 11.19,
+    "Impact_Analysis_Question": "Is the critical supplier list not updated? If Yes, identify action for Sourcing to update SQR (Supplier Quality Requirements).",
+    "Response": "NA",
+    "Justification_or_Implementation_Details": "Not applicable for SaaS based Cloud environement product.",
+    "Target_Completion_Workflow_Phase": "NA"
+  },
+  {
+    "Release_Number": "GLOBAL",
+    "Question_No": 11.2,
+    "Impact_Analysis_Question": "Is the critical supplier list not updated? If Yes, identify action for RA to review/update Product Technical File as needed.",
+    "Response": "NA",
+    "Justification_or_Implementation_Details": "Not applicable for SaaS based Cloud environement product.",
+    "Target_Completion_Workflow_Phase": "NA"
+  },
+  {
+    "Release_Number": "GLOBAL",
+    "Question_No": 11.21,
+    "Impact_Analysis_Question": "Does this design change impact Dedicated Test Equipment (including SW options media stations)?",
+    "Response": "NA",
+    "Justification_or_Implementation_Details": "Not applicable for SaaS based Cloud environement product.",
+    "Target_Completion_Workflow_Phase": "NA"
+  },
+  {
+    "Release_Number": "GLOBAL",
+    "Question_No": 11.22,
+    "Impact_Analysis_Question": "Is a buy-level part supplied by another GEHC site introduced with this change? NOTE: Check if the ECR introduces parts from a GEHC affiliate/supplier that is not on the site ASL. NOTE: Consider any updates required to the Site Product Matrix for new GEHC suppliers or new services provided by GEHC suppliers",
+    "Response": "NA",
+    "Justification_or_Implementation_Details": "Not applicable for SaaS based Cloud environement product.",
+    "Target_Completion_Workflow_Phase": "NA"
+  },
+  {
+    "Release_Number": "GLOBAL",
+    "Question_No": 11.23,
+    "Impact_Analysis_Question": "Does this design change impact Proprietary Classification of Hardware/Software Tools, Documentation, and Files documented in Product Proprietary Classification record per QS_10001 Global Standard WI for Proprietary Classification (DOC1410674)?",
+    "Response": "NA",
+    "Justification_or_Implementation_Details": "Not applicable for SaaS based Cloud environement product.",
+    "Target_Completion_Workflow_Phase": "NA"
+  },
+  {
+    "Release_Number": "GLOBAL",
+    "Question_No": 11.24,
+    "Impact_Analysis_Question": "Does this design change impact Buy Parts? (Change To/Switching Supplier, New Direct Supplier Identified (Confirm Addition in ASL),New Sub-Tier Supplier Identified Part cost changing , Supplier Tooling changing) Does part categorization match supplier categorization, Approved Supplier List, Blanket Purchase Agreement, Purchase Order?",
+    "Response": "NA",
+    "Justification_or_Implementation_Details": "Not applicable for SaaS based Cloud environement product.",
+    "Target_Completion_Workflow_Phase": "NA"
+  },
+  {
+    "Release_Number": "GLOBAL",
+    "Question_No": 12.0,
+    "Impact_Analysis_Question": "Do any of the IMPACT ANALYSIS considerations/questions below apply to Cleaning, Disinfection, and Sterilization design controls element? If NO, document the rationale for no impact.",
+    "Response": "NA",
+    "Justification_or_Implementation_Details": "Not applicable for SaaS based Cloud environement product.",
+    "Target_Completion_Workflow_Phase": "NA"
+  },
+  {
+    "Release_Number": "GLOBAL",
+    "Question_No": 12.1,
+    "Impact_Analysis_Question": "Does this design change impact chemicals listed in the user manual?  Check https://cleaning.gehealthcare.com/ to ensure the chemicals listed match the GE Healthcare cleaning website.",
+    "Response": "NA",
+    "Justification_or_Implementation_Details": "Not applicable for SaaS based Cloud environement product.",
+    "Target_Completion_Workflow_Phase": "NA"
+  },
+  {
+    "Release_Number": "GLOBAL",
+    "Question_No": 12.2,
+    "Impact_Analysis_Question": "Does this design change impact established product cleaning and disinfection processes?  If the design, materials, or device use has changed substantially, then a new validation or adoption assessment may need to be performed. Use GEHC_GQP_10.01.019_T001 Cleaning and Disinfection Plan Template (DOC2440136)  [Device use change - if the device use has changed, then the Spaulding classification needs to be performed. If the Spaulding classification changes, then the cleaning and disinfection processes may need to be changed. Material change - probably does not affect the cleanability or disinfection but may have an effect on the material compatibility with the chemical. Design feature change - the change needs to be compared to the previous design feature to see if this is more difficult to clean and disinfect.] NOTE: Any addition or removal of cleaning agents requires assessment of Design input(SRS), Design output(Manuals), and Website.",
+    "Response": "NA",
+    "Justification_or_Implementation_Details": "Not applicable for SaaS based Cloud environement product.",
+    "Target_Completion_Workflow_Phase": "NA"
+  },
+  {
+    "Release_Number": "GLOBAL",
+    "Question_No": 13.4,
+    "Impact_Analysis_Question": "Does this design change require TDR to be planned and executed per GEHC New Product AI Quality Standard (DOC2252997)?",
+    "Response": "NA",
+    "Justification_or_Implementation_Details": "Not applicable for SaaS based Cloud environement product.",
+    "Target_Completion_Workflow_Phase": "NA"
+  },
+  {
+    "Release_Number": "GLOBAL",
+    "Question_No": 13.6,
+    "Impact_Analysis_Question": "Does this design change require TDR to be planned and executed per GEHC Design Standard For Rechargeable DC Energy Storage Devices (Secondary Batteries and Super Capacitors) (DOC2385440)? NOTE: Design change impacting Safety and Charging parameters, storage and shelf life, portable power management, Portable power capacity, updates to PSP etc., may require TDR to be planned and approved before implementing design change.",
+    "Response": "NA",
+    "Justification_or_Implementation_Details": "Not applicable for SaaS based Cloud environement product.",
+    "Target_Completion_Workflow_Phase": "NA"
+  },
+  {
+    "Release_Number": "GLOBAL",
+    "Question_No": 13.7,
+    "Impact_Analysis_Question": "Are any additional reviews required? - Purchased GE Designed Parts/Assemblies - Design Requirements Review with Supplier - Documented Cross Functional Core Team Review - Manufacturing Review, - Regulatory Review - Marketing/Product Management or Clinical  Review - Intellectual Property Review - Require Drawing review  if this design is from Predicate device ? - Require Tolerance analysis for critical joints/assemblies ?",
+    "Response": "NA",
+    "Justification_or_Implementation_Details": "Not applicable for SaaS based Cloud environement product.",
+    "Target_Completion_Workflow_Phase": "NA"
+  },
+  {
+    "Release_Number": "GLOBAL",
+    "Question_No": 14.0,
+    "Impact_Analysis_Question": "Actions to disposition impacted materials and product on-order, in-process, manufacturing, distribution, service spares (e.g., use-up, rework, scrap, no change, balance) is required?",
+    "Response": "NA",
+    "Justification_or_Implementation_Details": "Not applicable for SaaS based Cloud environement product.",
+    "Target_Completion_Workflow_Phase": "NA"
+  },
+  {
+    "Release_Number": "GLOBAL",
+    "Question_No": 14.1,
+    "Impact_Analysis_Question": "Does this Design Change Plan identify parts with rework and scrap disposition? If Yes, include action to identity rework instructions and capture evidence of rework and scrap as part of ERP Release or ECO implementation",
+    "Response": "NA",
+    "Justification_or_Implementation_Details": "Not applicable for SaaS based Cloud environement product.",
+    "Target_Completion_Workflow_Phase": "NA"
+  },
+  {
+    "Release_Number": "GLOBAL",
+    "Question_No": 14.2,
+    "Impact_Analysis_Question": "Does this design change require Hold, Concession or Deviation to be initiated? If Yes, identify traceability to document number of Hold, Concession or Deviation.",
+    "Response": "NA",
+    "Justification_or_Implementation_Details": "Not applicable for SaaS based Cloud environement product.",
+    "Target_Completion_Workflow_Phase": "NA"
+  },
+  {
+    "Release_Number": "GLOBAL",
+    "Question_No": 14.3,
+    "Impact_Analysis_Question": "Does this design change obsolete/end of life parts or catalogs or software or configurations or offerings as part of Product M6-M9 PRD milestone phase?  If Yes, identify tasks to ensure impacts items are also obsoleted from order management/Marketing systems (e.g., Oracle, Salesforce).",
+    "Response": "NA",
+    "Justification_or_Implementation_Details": "Not applicable for SaaS based Cloud environement product.",
+    "Target_Completion_Workflow_Phase": "NA"
+  }
+]
